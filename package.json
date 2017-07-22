@@ -1,0 +1,29 @@
+{
+  "name": "wikiscrpper",
+  "version": "1.0.0",
+  "description": "Scrape wikipedia, the ocean of knowledge.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujib2953/WikiScrapper.git"
+  },
+  "keywords": [
+    "Wiki",
+    "Node",
+    "Cheerio"
+  ],
+  "author": "Mujib Ansari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mujib2953/WikiScrapper/issues"
+  },
+  "homepage": "https://github.com/mujib2953/WikiScrapper#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
