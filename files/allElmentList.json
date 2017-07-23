@@ -2283,7 +2283,7 @@
 		"formula": "C<sub>2</sub>O<sub>4</sub><sup>2&#x2212;</sup>",
 		"link": "/wiki/Oxalate_ion",
 		"name": "oxalate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>3</sub>H<sub>3</sub>O<sub>4</sub><sup>&#x2212;</sup>",
@@ -3012,14 +3012,16 @@
 		"cas": "120-80-9"
 	},
 	{
-		"formula": "<a href=\"/wiki/Hydroquinone\" title=\"Hydroquinone\">hydroquinone</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub><br>\n(<a href=\"/wiki/Benzenediol\" title=\"Benzenediol\">benzenediols</a>)",
+		"link": "/wiki/Hydroquinone",
+		"name": "hydroquinone",
+		"cas": "123-31-9"
 	},
 	{
-		"formula": "<a href=\"/wiki/Resorcinol\" title=\"Resorcinol\">resorcinol</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub><br>\n(<a href=\"/wiki/Benzenediol\" title=\"Benzenediol\">benzenediols</a>)",
+		"link": "/wiki/Resorcinol",
+		"name": "resorcinol",
+		"cas": "108-46-3"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>6</sub>O<sub>3</sub>",
@@ -3046,19 +3048,22 @@
 		"cas": "1603-40-3"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=2-amino-4-methylpyridine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"2-amino-4-methylpyridine (page does not exist)\">2-amino-4-methylpyridine</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/w/index.php?title=2-amino-4-methylpyridine&action=edit&redlink=1",
+		"name": "2-amino-4-methylpyridine",
+		"cas": "695-34-1"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=2-amino-5-methylpyridine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"2-amino-5-methylpyridine (page does not exist)\">2-amino-5-methylpyridine</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/w/index.php?title=2-amino-5-methylpyridine&action=edit&redlink=1",
+		"name": "2-amino-5-methylpyridine",
+		"cas": "1603-41-4"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=2-amino-6-methylpyridine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"2-amino-6-methylpyridine (page does not exist)\">2-amino-6-methylpyridine</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/w/index.php?title=2-amino-6-methylpyridine&action=edit&redlink=1",
+		"name": "2-amino-6-methylpyridine",
+		"cas": "1824-81-3"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>S",
@@ -3067,9 +3072,10 @@
 		"cas": "5398-36-7"
 	},
 	{
-		"formula": "<a href=\"/wiki/Sulfanilamide\" title=\"Sulfanilamide\">sulfanilamide</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>S",
+		"link": "/wiki/Sulfanilamide",
+		"name": "sulfanilamide",
+		"cas": "63-74-1"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>",
@@ -3084,9 +3090,10 @@
 		"cas": "71-00-1"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Ethyl_5-amino-1H-pyrazole-4-carboxylate&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ethyl 5-amino-1H-pyrazole-4-carboxylate (page does not exist)\">ethyl 5-amino-1H-pyrazole-4-carboxylate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>9</sub>N<sub>3</sub>O<sub>2</sub>",
+		"link": "/w/index.php?title=Ethyl_5-amino-1H-pyrazole-4-carboxylate&action=edit&redlink=1",
+		"name": "ethyl 5-amino-1H-pyrazole-4-carboxylate",
+		"cas": "6994-25-8"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>9</sub>N<sub>3</sub>O<sub>3</sub>",
@@ -3101,29 +3108,34 @@
 		"cas": "3128-06-1"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Butyl_glyoxylate&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Butyl glyoxylate (page does not exist)\">butyl glyoxylate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>10</sub>O<sub>3</sub>",
+		"link": "/w/index.php?title=Butyl_glyoxylate&action=edit&redlink=1",
+		"name": "butyl glyoxylate",
+		"cas": "6295-06-3"
 	},
 	{
-		"formula": "<a href=\"/wiki/Ethyl_acetoacetate\" title=\"Ethyl acetoacetate\">ethyl acetoacetate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>10</sub>O<sub>3</sub>",
+		"link": "/wiki/Ethyl_acetoacetate",
+		"name": "ethyl acetoacetate",
+		"cas": "141-97-9"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=2-hydroxypropyl_acrylate&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"2-hydroxypropyl acrylate (page does not exist)\">2-hydroxypropyl acrylate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>10</sub>O<sub>3</sub>",
+		"link": "/w/index.php?title=2-hydroxypropyl_acrylate&action=edit&redlink=1",
+		"name": "2-hydroxypropyl acrylate",
+		"cas": "25584-83-2"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Pantolactone&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pantolactone (page does not exist)\">pantolactone</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>10</sub>O<sub>3</sub>",
+		"link": "/w/index.php?title=Pantolactone&action=edit&redlink=1",
+		"name": "pantolactone",
+		"cas": "599-04-2"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Propyl_pyruvate&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Propyl pyruvate (page does not exist)\">propyl pyruvate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>10</sub>O<sub>3</sub>",
+		"link": "/w/index.php?title=Propyl_pyruvate&action=edit&redlink=1",
+		"name": "propyl pyruvate",
+		"cas": "20279-43-0"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>11</sub>NO<sub>2</sub>",
@@ -3132,9 +3144,10 @@
 		"cas": "52-52-8"
 	},
 	{
-		"formula": "<a href=\"/wiki/Pipecolic_acid\" title=\"Pipecolic acid\">pipecolic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>11</sub>NO<sub>2</sub>",
+		"link": "/wiki/Pipecolic_acid",
+		"name": "pipecolic acid",
+		"cas": "3105-95-1"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>12</sub>",
@@ -3149,9 +3162,10 @@
 		"cas": "7660-25-5"
 	},
 	{
-		"formula": "<a href=\"/wiki/Glucose\" title=\"Glucose\">glucose</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+		"link": "/wiki/Glucose",
+		"name": "glucose",
+		"cas": "50-99-7"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>13</sub>NO",
@@ -3166,14 +3180,16 @@
 		"cas": "60-32-2"
 	},
 	{
-		"formula": "<a href=\"/wiki/Isoleucine\" title=\"Isoleucine\">isoleucine</a><br>\nIle",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>",
+		"link": "/wiki/Isoleucine",
+		"name": "isoleucine",
+		"cas": "73-32-5"
 	},
 	{
-		"formula": "<a href=\"/wiki/Leucine\" title=\"Leucine\">leucine</a><br>\nLeu",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>",
+		"link": "/wiki/Leucine",
+		"name": "leucine",
+		"cas": "61-90-5"
 	},
 	{
 		"formula": "C<sub>6</sub>H<sub>14</sub>",
@@ -3212,9 +3228,10 @@
 		"cas": "89-00-9"
 	},
 	{
-		"formula": "<a href=\"/wiki/Dipicolinic_acid\" title=\"Dipicolinic acid\">dipicolinic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>7</sub>H<sub>5</sub>NO<sub>4</sub>",
+		"link": "/wiki/Dipicolinic_acid",
+		"name": "dipicolinic acid",
+		"cas": "499-83-2"
 	},
 	{
 		"formula": "C<sub>7</sub>H<sub>5</sub>NS<sub>2</sub>",
@@ -3241,9 +3258,10 @@
 		"cas": "65-85-0"
 	},
 	{
-		"formula": "<a href=\"/wiki/4-hydroxybenzaldehyde\" class=\"mw-redirect\" title=\"4-hydroxybenzaldehyde\">4-hydroxybenzaldehyde</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>2</sub>",
+		"link": "/wiki/4-hydroxybenzaldehyde",
+		"name": "4-hydroxybenzaldehyde",
+		"cas": "123-08-0"
 	},
 	{
 		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>",
@@ -3252,9 +3270,10 @@
 		"cas": "69-72-7"
 	},
 	{
-		"formula": "<a href=\"/wiki/4-hydroxybenzoic_acid\" class=\"mw-redirect\" title=\"4-hydroxybenzoic acid\">4-hydroxybenzoic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>",
+		"link": "/wiki/4-hydroxybenzoic_acid",
+		"name": "4-hydroxybenzoic acid",
+		"cas": "99-96-7"
 	},
 	{
 		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>4</sub>",
@@ -3263,9 +3282,10 @@
 		"cas": "99-50-3"
 	},
 	{
-		"formula": "<a href=\"/wiki/2,3-dihydroxybenzoic_acid\" class=\"mw-redirect\" title=\"2,3-dihydroxybenzoic acid\">2,3-dihydroxybenzoic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>4</sub>",
+		"link": "/wiki/2,3-dihydroxybenzoic_acid",
+		"name": "2,3-dihydroxybenzoic acid",
+		"cas": "303-38-8"
 	},
 	{
 		"formula": "C<sub>7</sub>H<sub>6</sub>O<sub>5</sub>",
@@ -3358,9 +3378,10 @@
 		"cas": "10075-50-0"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=6-bromoindole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"6-bromoindole (page does not exist)\">6-bromoindole</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>8</sub>H<sub>6</sub>BrN",
+		"link": "/w/index.php?title=6-bromoindole&action=edit&redlink=1",
+		"name": "6-bromoindole",
+		"cas": "52415-29-9"
 	},
 	{
 		"formula": "C<sub>8</sub>H<sub>6</sub>ClN",
@@ -3399,14 +3420,16 @@
 		"cas": "2380-94-1"
 	},
 	{
-		"formula": "<a href=\"/wiki/Oxindole\" title=\"Oxindole\">oxindole</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>8</sub>H<sub>7</sub>NO",
+		"link": "/wiki/Oxindole",
+		"name": "oxindole",
+		"cas": "59-48-3"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=5-hydroxyindole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"5-hydroxyindole (page does not exist)\">5-hydroxyindole</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>8</sub>H<sub>7</sub>NO",
+		"link": "/w/index.php?title=5-hydroxyindole&action=edit&redlink=1",
+		"name": "5-hydroxyindole",
+		"cas": "1953-54-4"
 	},
 	{
 		"formula": "C<sub>8</sub>H<sub>8</sub>",
@@ -3427,9 +3450,10 @@
 		"cas": "156-38-7"
 	},
 	{
-		"formula": "<a href=\"/wiki/Isovanillin\" title=\"Isovanillin\">isovanillin</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>8</sub>H<sub>8</sub>O<sub>3</sub>",
+		"link": "/wiki/Isovanillin",
+		"name": "isovanillin",
+		"cas": "621-59-0"
 	},
 	{
 		"formula": "C<sub>8</sub>H<sub>8</sub>O<sub>4</sub>",
@@ -3515,10 +3539,12 @@
 		"name": "8-hydroxyquinoline",
 		"cas": "148-24-3"
 	},
+
 	{
-		"formula": "<a href=\"/w/index.php?title=Indole-3-carboxaldehyde&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Indole-3-carboxaldehyde (page does not exist)\">indole-3-carboxaldehyde</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>7</sub>NO",
+		"link": "/w/index.php?title=Indole-3-carboxaldehyde&action=edit&redlink=1",
+		"name": "indole-3-carboxaldehyde",
+		"cas": "487-89-8"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>7</sub>NO<sub>2</sub>",
@@ -3527,9 +3553,10 @@
 		"cas": "1477-50-5"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Indole-3-carboxylic_acid&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Indole-3-carboxylic acid (page does not exist)\">indole-3-carboxylic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>7</sub>NO<sub>2</sub>",
+		"link": "/w/index.php?title=Indole-3-carboxylic_acid&amp;action=edit&amp;redlink=1",
+		"name": "indole-3-carboxylic acid",
+		"cas": "771-50-6"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>8</sub>N<sub>2</sub>",
@@ -3538,19 +3565,22 @@
 		"cas": "1125-60-6"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=5-aminoquinoline&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"5-aminoquinoline (page does not exist)\">5-aminoquinoline</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/w/index.php?title=5-aminoquinoline&action=edit&redlink=1",
+		"name": "5-aminoquinoline",
+		"cas": "611-34-7"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=6-aminoquinoline&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"6-aminoquinoline (page does not exist)\">6-aminoquinoline</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/w/index.php?title=6-aminoquinoline&action=edit&redlink=1",
+		"name": "6-aminoquinoline",
+		"cas": "580-15-4"
 	},
 	{
-		"formula": "<a href=\"/wiki/8-aminoquinoline\" class=\"mw-redirect\" title=\"8-aminoquinoline\">8-aminoquinoline</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>N<sub>2</sub>",
+		"link": "/wiki/8-aminoquinoline",
+		"name": "8-aminoquinoline",
+		"cas": "578-66-5"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>2</sub>",
@@ -3565,14 +3595,16 @@
 		"cas": "614-60-8"
 	},
 	{
-		"formula": "<a href=\"/wiki/M-coumaric_acid\" class=\"mw-redirect\" title=\"M-coumaric acid\"><i>m</i>-coumaric acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>3</sub><br>\n(<a href=\"/wiki/Coumaric_acid\" title=\"Coumaric acid\">coumaric acids</a>)",
+		"link": "/wiki/M-coumaric_acid",
+		"name": "m-coumaric acid",
+		"cas": "621-54-5"
 	},
 	{
-		"formula": "<a href=\"/wiki/P-coumaric_acid\" class=\"mw-redirect\" title=\"P-coumaric acid\"><i>p</i>-coumaric acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>3</sub><br>\n(<a href=\"/wiki/Coumaric_acid\" title=\"Coumaric acid\">coumaric acids</a>)",
+		"link": "/wiki/P-coumaric_acid",
+		"name": "p-coumaric acid",
+		"cas": "7400-08-0"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
@@ -3581,9 +3613,16 @@
 		"cas": "50-78-2"
 	},
 	{
-		"formula": "<a href=\"/wiki/Caffeic_acid\" title=\"Caffeic acid\">caffeic acid</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+		"link": "/wiki/Aspirin",
+		"name": "acetylsalicylic acid",
+		"cas": "50-78-2"
+	},
+	{
+		"formula": "C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+		"link": "/wiki/Caffeic_acid",
+		"name": "caffeic acid",
+		"cas": "331-39-5"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>9</sub>N",
@@ -3592,9 +3631,10 @@
 		"cas": "95-20-5"
 	},
 	{
-		"formula": "<a href=\"/wiki/Skatole\" title=\"Skatole\">skatole</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>9</sub>N",
+		"link": "/wiki/Skatole",
+		"name": "skatole",
+		"cas": "83-34-1"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>9</sub>NO",
@@ -3603,19 +3643,10 @@
 		"cas": "4837-90-5"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=5-methoxyindole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"5-methoxyindole (page does not exist)\">5-methoxyindole</a>",
-		"name": "",
-		"cas": ""
-	},
-	{
-		"formula": "<a href=\"/w/index.php?title=6-methoxyindole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"6-methoxyindole (page does not exist)\">6-methoxyindole</a>",
-		"name": "",
-		"cas": ""
-	},
-	{
-		"formula": "<a href=\"/wiki/Indole-3-carbinol\" title=\"Indole-3-carbinol\">indole-3-carbinol</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>9</sub>NO",
+		"link": "/w/index.php?title=5-methoxyindole&action=edit&redlink=1",
+		"name": "5-methoxyindole",
+		"cas": "1006-94-6"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>9</sub>NO<sub>3</sub>",
@@ -3632,13 +3663,14 @@
 	{
 		"formula": "C<sub>9</sub>H<sub>11</sub>NO<sub>2</sub>",
 		"link": "/wiki/L-Phenylalanine",
-		"name": "phenylanine",
+		"name": "phenylanine LPA",
 		"cas": "63-91-2"
 	},
 	{
-		"formula": "<a href=\"/wiki/DL-Phenylalanine\" class=\"mw-redirect\" title=\"DL-Phenylalanine\">phenylanine</a><br>\nDLPA",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>9</sub>H<sub>11</sub>NO<sub>2</sub>",
+		"link": "/wiki/DL-Phenylalanine",
+		"name": "phenylanine DLPA",
+		"cas": "150-30-1"
 	},
 	{
 		"formula": "C<sub>9</sub>H<sub>10</sub>O",
@@ -3764,7 +3796,7 @@
 		"formula": "C<sub>10</sub>H<sub>16</sub>",
 		"link": "/wiki/Limonene",
 		"name": "limonene",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>10</sub>H<sub>16</sub>O",
@@ -3866,7 +3898,7 @@
 		"formula": "C<sub>12</sub>H<sub>16</sub>O<sub>7</sub>",
 		"link": "/wiki/Arbutin",
 		"name": "arbutin",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>",
@@ -3875,9 +3907,10 @@
 		"cas": "69-79-4"
 	},
 	{
-		"formula": "<a href=\"/wiki/Sucrose\" title=\"Sucrose\">sucrose</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>",
+		"link": "/wiki/Sucrose",
+		"name": "sucrose",
+		"cas": "57-50-1"
 	},
 	{
 		"formula": "C<sub>12</sub>H<sub>13</sub>NO<sub>2</sub>",
@@ -3994,14 +4027,16 @@
 		"cas": "520-36-5"
 	},
 	{
-		"formula": "<a href=\"/wiki/Emodin\" title=\"Emodin\">emodin</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>15</sub>H<sub>10</sub>O<sub>5</sub>",
+		"link": "/wiki/Emodin",
+		"name": "emodin",
+		"cas": "518-82-1"
 	},
 	{
-		"formula": "<a href=\"/wiki/Genistein\" title=\"Genistein\">genistein</a>",
-		"name": "",
-		"cas": ""
+		"formula": "C<sub>15</sub>H<sub>10</sub>O<sub>5</sub>",
+		"link": "/wiki/Genistein",
+		"name": "genistein",
+		"cas": "446-72-0"
 	},
 	{
 		"formula": "C<sub>15</sub>H<sub>10</sub>O<sub>6</sub>",
@@ -4037,7 +4072,7 @@
 		"formula": "C<sub>16</sub>H<sub>14</sub>O<sub>3</sub>",
 		"link": "/wiki/Ketoprofen",
 		"name": "ketoprofen",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>16</sub>H<sub>28</sub>N<sub>2</sub>O<sub>6</sub>Zn",
@@ -4127,19 +4162,19 @@
 		"formula": "C<sub>20</sub>H<sub>32</sub>O<sub>5</sub>",
 		"link": "/wiki/Prostacyclin",
 		"name": "prostacyclin",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>20</sub>H<sub>32</sub>O<sub>5</sub>",
 		"link": "/wiki/Prostaglandin_E2",
 		"name": "prostaglandin E2",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>20</sub>H<sub>34</sub>O<sub>5</sub>",
 		"link": "/wiki/Dinoprost",
 		"name": "dinoprost",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "C<sub>20</sub>H<sub>42</sub>",
@@ -4175,7 +4210,7 @@
 		"formula": "CaAl<sub>2</sub>O<sub>4</sub>",
 		"link": "/w/index.php?title=Calcium_aluminate&action=edit&redlink=1",
 		"name": "calcium aluminate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CaB<sub>6</sub>",
@@ -4277,7 +4312,7 @@
 		"formula": "Ca(HS)<sub>2</sub>",
 		"link": "/w/index.php?title=Calcium_hydrosulfide&action=edit&redlink=1",
 		"name": "calcium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CaI<sub>2</sub>",
@@ -4319,7 +4354,7 @@
 		"formula": "Ca(NbO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Calcium_metaniobate&action=edit&redlink=1",
 		"name": "calcium metaniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CaO",
@@ -4343,7 +4378,7 @@
 		"formula": "CaP",
 		"link": "/wiki/Calcium_monophosphide",
 		"name": "calcium monophosphide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CaS",
@@ -4421,13 +4456,13 @@
 		"formula": "Ca(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Calcium_metavanadate&action=edit&redlink=1",
 		"name": "calcium metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ca(VO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Calcium_orthovanadate&action=edit&redlink=1",
 		"name": "calcium orthovanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CaWO<sub>4</sub>",
@@ -4589,7 +4624,7 @@
 		"formula": "Cd(TaO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Cadmium_metatantalate&action=edit&redlink=1",
 		"name": "cadmium metatantalate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CdTe",
@@ -4619,7 +4654,7 @@
 		"formula": "CdZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Cadmium_metazirconate&action=edit&redlink=1",
 		"name": "cadmium metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cd<sub>2</sub>Nb<sub>2</sub>O<sub>7</sub>",
@@ -4811,7 +4846,7 @@
 		"formula": "Cl<sub>2</sub>O<sub>8</sub>",
 		"link": "/w/index.php?title=Chlorine_octaoxide&action=edit&redlink=1",
 		"name": "Chlorine octaoxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CoAl<sub>2</sub>O<sub>4</sub>",
@@ -5039,7 +5074,7 @@
 		"formula": "Co<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Cobalt_arsenate&action=edit&redlink=1",
 		"name": "cobalt arsenate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Co<sub>3</sub>(Fe(CN)<sub>6</sub>)<sub>2</sub>",
@@ -5129,13 +5164,13 @@
 		"formula": "Cr(NO<sub>2</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Chromium(III)_nitrite&action=edit&redlink=1",
 		"name": "chromium(III) nitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr(OH)<sub>3</sub>",
 		"link": "/wiki/Chromium(III)_hydroxide",
 		"name": "chromium(III) hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CrO<sub>2</sub>",
@@ -5177,7 +5212,7 @@
 		"formula": "CrVO<sub>4</sub>",
 		"link": "/w/index.php?title=Chromium(III)_orthovanadate&action=edit&redlink=1",
 		"name": "chromium(III) orthovanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr<sub>2</sub>O<sub>3</sub>",
@@ -5201,13 +5236,13 @@
 		"formula": "Cr<sub>2</sub>Se<sub>3</sub>",
 		"link": "/w/index.php?title=Chromium(III)_selenide&action=edit&redlink=1",
 		"name": "chromium(III) selenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr<sub>2</sub>(TeO<sub>4</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Chromium(III)_tellurate&action=edit&redlink=1",
 		"name": "chromium(III) tellurate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr<sub>2</sub>Te<sub>3</sub>",
@@ -5219,7 +5254,7 @@
 		"formula": "Cr<sub>3</sub>As<sub>2</sub>",
 		"link": "/w/index.php?title=Chromium(II)_arsenide&action=edit&redlink=1",
 		"name": "chromium(II) arsenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr<sub>3</sub>C<sub>2</sub>",
@@ -5231,13 +5266,13 @@
 		"formula": "Cr<sub>3</sub>Sb<sub>2</sub>",
 		"link": "/w/index.php?title=Chromium(II)_antimonide&action=edit&redlink=1",
 		"name": "chromium(II) antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cr<sub>3</sub>Si<sub>2</sub>",
 		"link": "/wiki/Chromium(II)_silicide",
 		"name": "chromium(II) silicide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsBO<sub>2</sub>",
@@ -5255,13 +5290,13 @@
 		"formula": "CsBrO",
 		"link": "/w/index.php?title=Caesium_hypobromite&action=edit&redlink=1",
 		"name": "caesium hypobromite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsBrO<sub>2</sub>",
 		"link": "/w/index.php?title=Caesium_bromite&action=edit&redlink=1",
 		"name": "caesium bromite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsBrO<sub>3</sub>",
@@ -5273,13 +5308,13 @@
 		"formula": "CsBrO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_perbromate&action=edit&redlink=1",
 		"name": "caesium perbromate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsBr<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_tribromide&action=edit&redlink=1",
 		"name": "caesium tribromide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsCN",
@@ -5291,7 +5326,7 @@
 		"formula": "CsCNO",
 		"link": "/w/index.php?title=Caesium_cyanate&action=edit&redlink=1",
 		"name": "caesium cyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
@@ -5309,13 +5344,13 @@
 		"formula": "CsClO",
 		"link": "/w/index.php?title=Caesium_hypochlorite&action=edit&redlink=1",
 		"name": "caesium hypochlorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsClO<sub>2</sub>",
 		"link": "/w/index.php?title=Caesium_chlorite&action=edit&redlink=1",
 		"name": "caesium chlorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsClO<sub>3</sub>",
@@ -5339,13 +5374,13 @@
 		"formula": "CsH",
 		"link": "/wiki/Caesium_hydride",
 		"name": "caesium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsHS",
 		"link": "/w/index.php?title=Caesium_hydrosulfide&action=edit&redlink=1",
 		"name": "caesium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsI",
@@ -5357,31 +5392,31 @@
 		"formula": "CsIO",
 		"link": "/w/index.php?title=Caesium_hypoiodite&action=edit&redlink=1",
 		"name": "caesium hypoiodite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsIO<sub>2</sub>",
 		"link": "/w/index.php?title=Caesium_iodite&action=edit&redlink=1",
 		"name": "caesium iodite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsIO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_iodate&action=edit&redlink=1",
 		"name": "caesium iodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsIO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_periodate&action=edit&redlink=1",
 		"name": "caesium periodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsI<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_triiodide&action=edit&redlink=1",
 		"name": "caesium triiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsNH<sub>2</sub>",
@@ -5411,7 +5446,7 @@
 		"formula": "CsNbO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_metaniobate&action=edit&redlink=1",
 		"name": "caesium metaniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsOH",
@@ -5429,7 +5464,7 @@
 		"formula": "Cs<sub>2</sub>O<sub>2</sub>",
 		"link": "/w/index.php?title=Caesium_peroxide&action=edit&redlink=1",
 		"name": "caesium peroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>S",
@@ -5453,7 +5488,7 @@
 		"formula": "CsTaO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_metatantalate&action=edit&redlink=1",
 		"name": "caesium metatantalate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>CO<sub>3</sub>",
@@ -5471,25 +5506,25 @@
 		"formula": "CsH<sub>2</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Monocaesium_phosphite&action=edit&redlink=1",
 		"name": "monocaesium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsH<sub>2</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Monocaesium_phosphate&action=edit&redlink=1",
 		"name": "monocaesium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsHSO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_bisulfite&action=edit&redlink=1",
 		"name": "caesium bisulfite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CsHSO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_bisulfate&action=edit&redlink=1",
 		"name": "caesium bisulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
@@ -5513,7 +5548,7 @@
 		"formula": "Cs<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_hydrogen_orthophosphate&action=edit&redlink=1",
 		"name": "caesium hydrogen orthophosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>MoO<sub>4</sub>",
@@ -5531,7 +5566,7 @@
 		"formula": "Cs<sub>2</sub>SO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_sulfite&action=edit&redlink=1",
 		"name": "caesium sulfite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>SO<sub>4</sub>",
@@ -5543,7 +5578,7 @@
 		"formula": "Cs<sub>2</sub>SiO<sub>3</sub>",
 		"link": "/w/index.php?title=Caesium_metasilicate&action=edit&redlink=1",
 		"name": "caesium metasilicate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>TeO<sub>4</sub>",
@@ -5561,37 +5596,37 @@
 		"formula": "Cs<sub>2</sub>WO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_orthotungstate&action=edit&redlink=1",
 		"name": "caesium orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>HPO<sub>3</sub>",
 		"link": "/w/index.php?title=Dicaesium_phosphite&action=edit&redlink=1",
 		"name": "dicaesium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/w/index.php?title=Dicaesium_phosphate&action=edit&redlink=1",
 		"name": "dicaesium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>3</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Tricaesium_phosphite&action=edit&redlink=1",
 		"name": "tricaesium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>3</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_orthophosphate&action=edit&redlink=1",
 		"name": "caesium orthophosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cs<sub>3</sub>VO<sub>4</sub>",
 		"link": "/w/index.php?title=Caesium_orthovanadate&action=edit&redlink=1",
 		"name": "caesium orthovanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuBr",
@@ -5603,7 +5638,7 @@
 		"formula": "Cu(BrO<sub>3</sub>)<sub>2</sub> &#xB7; 6H<sub>2</sub>O",
 		"link": "/w/index.php?title=Copper(II)_bromate_hexahydrate&action=edit&redlink=1",
 		"name": "copper(II) bromate hexahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuBr<sub>2</sub>",
@@ -5621,7 +5656,7 @@
 		"formula": "Cu(CH3COO)<sub>2</sub>",
 		"link": "/wiki/Copper(II)_acetate",
 		"name": "copper(II) acetate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuCl",
@@ -5633,7 +5668,7 @@
 		"formula": "Cu(ClO<sub>3</sub>)<sub>2</sub> &#xB7; 6H<sub>2</sub>O",
 		"link": "/w/index.php?title=Copper(II)_chlorate_hexahydrate&action=edit&redlink=1",
 		"name": "copper(II) chlorate hexahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuCl<sub>2</sub>",
@@ -5675,7 +5710,7 @@
 		"formula": "[Cu(H<sub>2</sub>O)<sub>4</sub>]SO<sub>4</sub> &#xB7; H<sub>2</sub>O",
 		"link": "/wiki/Blue_vitriol",
 		"name": "blue vitriol",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuI",
@@ -5687,19 +5722,19 @@
 		"formula": "CuIO<sub>3</sub>",
 		"link": "/w/index.php?title=Copper(I)_iodate&action=edit&redlink=1",
 		"name": "copper(I) iodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cu(IO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Copper(II)_iodate&action=edit&redlink=1",
 		"name": "copper(II) iodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuMoO<sub>4</sub>",
 		"link": "/w/index.php?title=Copper(II)_orthomolybdate&action=edit&redlink=1",
 		"name": "copper(II) orthomolybdate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cu(NO<sub>3</sub>)<sub>2</sub>",
@@ -5723,7 +5758,7 @@
 		"formula": "Cu(NbO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Copper(II)_orthoniobate&action=edit&redlink=1",
 		"name": "copper(II) orthoniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuO",
@@ -5735,7 +5770,7 @@
 		"formula": "Cu<sub>2</sub>O",
 		"link": "/wiki/Copper(I)_oxide",
 		"name": "copper(I) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cu(OH)<sub>2</sub>",
@@ -5747,7 +5782,7 @@
 		"formula": "Cu(OH)<sub>2</sub>CO<sub>3</sub>",
 		"link": "/wiki/Verdigris",
 		"name": "Verdigris",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuS",
@@ -5783,19 +5818,19 @@
 		"formula": "CuSeO<sub>3</sub> &#xB7; 2H<sub>2</sub>O",
 		"link": "/w/index.php?title=Copper(II)_selenite_dihydrate&action=edit&redlink=1",
 		"name": "copper(II) selenite dihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuSeO<sub>4</sub> &#xB7; 5H<sub>2</sub>O",
 		"link": "/w/index.php?title=Copper(II)_selenate_pentahydride&action=edit&redlink=1",
 		"name": "copper(II) selenate pentahydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuSiO<sub>3</sub>",
 		"link": "/w/index.php?title=Copper(II)_metasilicate&action=edit&redlink=1",
 		"name": "copper(II) metasilicate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuTe",
@@ -5813,19 +5848,19 @@
 		"formula": "CuTiO<sub>3</sub>",
 		"link": "/w/index.php?title=Copper(II)_metatitanate&action=edit&redlink=1",
 		"name": "copper(II) metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cu(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Copper(II)_metavanadate&action=edit&redlink=1",
 		"name": "copper(II) metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "CuWO<sub>4</sub>",
 		"link": "/w/index.php?title=Copper(II)_orthotungstate&action=edit&redlink=1",
 		"name": "copper(II) orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>",
@@ -5879,7 +5914,7 @@
 		"formula": "Cu<sub>9</sub>S<sub>5</sub>",
 		"link": "/wiki/Copper_sulfide",
 		"name": "copper sulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "DBr",
@@ -5891,7 +5926,7 @@
 		"formula": "DI",
 		"link": "/w/index.php?title=Deuterium_iodidi&action=edit&redlink=1",
 		"name": "deuterium iodidi",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "DLi",
@@ -5915,7 +5950,7 @@
 		"formula": "D<sub>3</sub>O<sup>+</sup>",
 		"link": "/w/index.php?title=Trideuterium_oxide_cation&action=edit&redlink=1",
 		"name": "trideuterium oxide cation",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "DyBr<sub>3</sub>",
@@ -5957,7 +5992,7 @@
 		"formula": "ErCl<sub>3</sub>",
 		"link": "/wiki/Erbium(III)_chloride",
 		"name": "erbium(III) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ErF",
@@ -5999,13 +6034,13 @@
 		"formula": "EuCl<sub>2</sub>",
 		"link": "/w/index.php?title=Europium(II)_chloride&action=edit&redlink=1",
 		"name": "europium(II) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "EuCl<sub>3</sub>",
 		"link": "/wiki/Europium(III)_chloride",
 		"name": "europium(III) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "EuF",
@@ -6077,7 +6112,7 @@
 		"formula": "EuSO<sub>4</sub>",
 		"link": "/w/index.php?title=Europium(II)_sulfate&action=edit&redlink=1",
 		"name": "europium(II) sulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "EuS<sub>2</sub>",
@@ -6119,7 +6154,7 @@
 		"formula": "Eu<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Europium(III)_sulfate&action=edit&redlink=1",
 		"name": "europium(III) sulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "F<sub>2</sub>Fe",
@@ -6593,7 +6628,7 @@
 		"formula": "F<sub>2</sub>O<sub>5</sub>S<sub>3</sub>",
 		"link": "/w/index.php?title=Peroxydisulfuryl_difluoride&action=edit&redlink=1",
 		"name": "peroxydisulfuryl difluoride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "F<sub>2</sub>P",
@@ -7373,7 +7408,7 @@
 		"formula": "FeBr<sub>3</sub> &#xB7; 6H<sub>2</sub>O",
 		"link": "/w/index.php?title=Iron(III)_bromide_hexahydrate&action=edit&redlink=1",
 		"name": "iron(III) bromide hexahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeCO<sub>3</sub>",
@@ -7421,7 +7456,7 @@
 		"formula": "FeF<sub>2</sub> &#xB7; 4H<sub>2</sub>O",
 		"link": "/w/index.php?title=Iron(II)_fluoride_tetrahydrate&action=edit&redlink=1",
 		"name": "iron(II) fluoride tetrahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeI",
@@ -7439,7 +7474,7 @@
 		"formula": "FeI<sub>2</sub> &#xB7; 4H<sub>2</sub>O",
 		"link": "/w/index.php?title=Iron(II)_iodide_tetrahydrate&action=edit&redlink=1",
 		"name": "iron(II) iodide tetrahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeI<sub>3</sub>",
@@ -7451,7 +7486,7 @@
 		"formula": "FeMoO<sub>4</sub>",
 		"link": "/w/index.php?title=Iron(II)_orthomolybdate&action=edit&redlink=1",
 		"name": "iron(II) orthomolybdate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeO",
@@ -7505,7 +7540,7 @@
 		"formula": "FeO<sub>8</sub>H<sub>4</sub>P<sub>2</sub>",
 		"link": "/w/index.php?title=Iron(II)_dihydrogen_phosphate&action=edit&redlink=1",
 		"name": "iron(II) dihydrogen phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeP",
@@ -7526,9 +7561,10 @@
 		"cas": "1309-36-0"
 	},
 	{
-		"formula": "iron(IV) sulfide<br>\n<a href=\"/wiki/Marcasite\" title=\"Marcasite\">marcasite</a>",
-		"name": "",
-		"cas": ""
+		"formula": "FeS<sub>2</sub>",
+		"link": "/wiki/Marcasite",
+		"name": "marcasite",
+		"cas": "12068-85-8"
 	},
 	{
 		"formula": "FeSe",
@@ -7546,25 +7582,25 @@
 		"formula": "FeTiO<sub>3</sub>",
 		"link": "/w/index.php?title=Iron(II)_metatitanate&action=edit&redlink=1",
 		"name": "iron(II) metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeVO<sub>4</sub>",
 		"link": "/w/index.php?title=Iron(III)_orthovanadate&action=edit&redlink=1",
 		"name": "iron(III) orthovanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeWO<sub>4</sub>",
 		"link": "/w/index.php?title=Iron(II)_orthotungstate&action=edit&redlink=1",
 		"name": "iron(II) orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "FeZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Iron(II)_metazirconate&action=edit&redlink=1",
 		"name": "iron(II) metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Fe<sub>2</sub>I<sub>2</sub>",
@@ -7600,7 +7636,7 @@
 		"formula": "Fe<sub>2</sub>O<sub>12</sub>W<sub>3</sub>",
 		"link": "/w/index.php?title=Iron(III)_orthotungstate&action=edit&redlink=1",
 		"name": "iron(III) orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Fe<sub>2</sub>P",
@@ -7648,7 +7684,7 @@
 		"formula": "GaAsO<sub>4</sub>",
 		"link": "/w/index.php?title=Gallium(III)_orthoarsenate&action=edit&redlink=1",
 		"name": "gallium(III) orthoarsenate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "GaBr<sub>3</sub>",
@@ -7678,7 +7714,7 @@
 		"formula": "GaI<sub>2</sub>",
 		"link": "/w/index.php?title=Gallium(II)_iodide&action=edit&redlink=1",
 		"name": "gallium(II) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "GaI<sub>3</sub>",
@@ -7702,7 +7738,7 @@
 		"formula": "GaPO<sub>4</sub>",
 		"link": "/wiki/Gallium(III)_orthophosphate",
 		"name": "gallium(III) orthophosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "GaSb",
@@ -7726,7 +7762,7 @@
 		"formula": "Ga<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&#xB7;18H<sub>2</sub>O",
 		"link": "/w/index.php?title=Gallium(III)_sulfate_octadecahydrate&action=edit&redlink=1",
 		"name": "gallium(III) sulfate octadecahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ga<sub>2</sub>S<sub>3</sub>",
@@ -7750,7 +7786,7 @@
 		"formula": "GeH<sub>3</sub>COOH",
 		"link": "/w/index.php?title=2-germaacetic_acid&action=edit&redlink=1",
 		"name": "2-germaacetic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "GeI<sub>2</sub>",
@@ -7774,7 +7810,7 @@
 		"formula": "HAt",
 		"link": "/wiki/Hydrogen_astatide",
 		"name": "hydrogen astatide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HBr",
@@ -7786,25 +7822,25 @@
 		"formula": "HBrO",
 		"link": "/wiki/Hypobromous_acid",
 		"name": "hypobromous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HBrO<sub>2</sub>",
 		"link": "/wiki/Bromous_acid",
 		"name": "bromous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HBrO<sub>3</sub>",
 		"link": "/wiki/Bromic_acid",
 		"name": "bromic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HBrO<sub>4</sub>",
 		"link": "/wiki/Perbromic_acid",
 		"name": "perbromic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HCCH",
@@ -7858,7 +7894,7 @@
 		"formula": "HC<sub>5</sub>H<sub>5</sub>N<sup>+</sup>",
 		"link": "/wiki/Pyridinium",
 		"name": "pyridinium",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HC<sub>6</sub>H<sub>7</sub>O<sub>6</sub>",
@@ -7936,7 +7972,7 @@
 		"formula": "HIO<sub>2</sub>",
 		"link": "/wiki/Iodous_acid",
 		"name": "iodous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HIO<sub>3</sub>",
@@ -7948,13 +7984,13 @@
 		"formula": "HIO<sub>4</sub>",
 		"link": "/wiki/Periodic_acid",
 		"name": "periodic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HNCO",
 		"link": "/wiki/Isocyanic_acid",
 		"name": "isocyanic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HNO",
@@ -8074,7 +8110,7 @@
 		"formula": "H<sub>2</sub>C<sub>8</sub>H<sub>4</sub>O<sub>4</sub>",
 		"link": "/wiki/Phthalic_acid",
 		"name": "phthalic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>2</sub>CrO<sub>4</sub>",
@@ -8140,7 +8176,7 @@
 		"formula": "H<sub>2</sub>S<sub>2</sub>O<sub>2</sub>",
 		"link": "/wiki/Thiosulfurous_acid",
 		"name": "thiosulfurous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>2</sub>S<sub>2</sub>O<sub>3</sub>",
@@ -8158,7 +8194,7 @@
 		"formula": "H<sub>2</sub>S<sub>2</sub>O<sub>5</sub>",
 		"link": "/wiki/Disulfurous_acid",
 		"name": "disulfurous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>2</sub>S<sub>2</sub>O<sub>6</sub>",
@@ -8206,7 +8242,7 @@
 		"formula": "H<sub>2</sub>TiO<sub>3</sub>",
 		"link": "/wiki/Titanic_acid",
 		"name": "titanic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>3</sub>AsO<sub>4</sub>",
@@ -8224,7 +8260,7 @@
 		"formula": "H<sub>3</sub>N<sup>+</sup>CH<sub>2</sub>COO<sup>&#x2212;</sup>",
 		"link": "/wiki/Zwitterion",
 		"name": "zwitterion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>3</sub>O<sup>+</sup>",
@@ -8236,13 +8272,13 @@
 		"formula": "H<sub>3</sub>PO<sub>2</sub>",
 		"link": "/wiki/Hypophosphorous_acid",
 		"name": "hypophosphorous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>3</sub>PO<sub>3</sub>",
 		"link": "/wiki/Phosphorous_acid",
 		"name": "phosphorous acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>3</sub>PO<sub>4</sub>",
@@ -8254,7 +8290,7 @@
 		"formula": "H<sub>4</sub>XeO<sub>6</sub>",
 		"link": "/wiki/Perxenate#Perxenic_acid",
 		"name": "perxenic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "H<sub>6</sub>TeO<sub>6</sub>",
@@ -8284,7 +8320,7 @@
 		"formula": "HfOH(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Hafnium(IV)_acetate,_basic&action=edit&redlink=1",
 		"name": "hafnium(IV) acetate, basic",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Hf(SO<sub>4</sub>)<sub>2</sub>",
@@ -8296,7 +8332,7 @@
 		"formula": "Hg(BrO<sub>3</sub>)<sub>2</sub> &#xB7; 2H<sub>2</sub>O",
 		"link": "/w/index.php?title=Mercury(II)_bromate_dihydrate&action=edit&redlink=1",
 		"name": "mercury(II) bromate dihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Hg<sub>2</sub>Br<sub>2</sub>",
@@ -8320,19 +8356,19 @@
 		"formula": "Hg(C<sub>7</sub>H<sub>5</sub>O<sub>2</sub>)<sub>2</sub> &#xB7; H<sub>2</sub>O",
 		"link": "/w/index.php?title=Mercury(II)_benzoate_monohydrate&action=edit&redlink=1",
 		"name": "mercury(II) benzoate monohydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HgClO<sub>4</sub> &#xB7; 4H<sub>2</sub>O",
 		"link": "/w/index.php?title=Mercury(I)_perchlorate_tetrahydrate&action=edit&redlink=1",
 		"name": "mercury(I) perchlorate tetrahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Hg(ClO<sub>4</sub>)<sub>2</sub> &#xB7; 3H<sub>2</sub>O",
 		"link": "/w/index.php?title=Mercury(II)_perchlorate_trihydrate&action=edit&redlink=1",
 		"name": "mercury(II) perchlorate trihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HgCl<sub>2</sub>",
@@ -8374,7 +8410,7 @@
 		"formula": "Hg(OH)<sub>2</sub>",
 		"link": "/wiki/Mercury(II)_hydroxide",
 		"name": "mercury(II) hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HgS",
@@ -8398,7 +8434,7 @@
 		"formula": "HgSeO<sub>3</sub>",
 		"link": "/w/index.php?title=Mercury(II)_selenite&action=edit&redlink=1",
 		"name": "mercury(II) selenite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HgTe",
@@ -8410,13 +8446,13 @@
 		"formula": "HgTeO<sub>3</sub>",
 		"link": "/w/index.php?title=Mercury(II)_tellurite&action=edit&redlink=1",
 		"name": "mercury(II) tellurite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "HgWO<sub>4</sub>",
 		"link": "/w/index.php?title=Mercury(II)_tungstate&action=edit&redlink=1",
 		"name": "mercury(II) tungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Hg<sub>2</sub>Br<sub>2</sub>",
@@ -8440,13 +8476,13 @@
 		"formula": "Hg<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Mercury(II)_orthoarsenate&action=edit&redlink=1",
 		"name": "mercury(II) orthoarsenate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Hg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Mercury(II)_phosphate&action=edit&redlink=1",
 		"name": "mercury(II) phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "IBr",
@@ -8512,13 +8548,13 @@
 		"formula": "InBrI<sub>2</sub>",
 		"link": "/w/index.php?title=Indium(III)_bromodiiodide&action=edit&redlink=1",
 		"name": "indium(III) bromodiiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InBr<sub>2</sub>I",
 		"link": "/w/index.php?title=Indium(III)_dibromoiodide&action=edit&redlink=1",
 		"name": "indium(III) dibromoiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InBr<sub>3</sub>",
@@ -8536,7 +8572,7 @@
 		"formula": "InCl<sub>2</sub>",
 		"link": "/w/index.php?title=Indium(II)_chloride&action=edit&redlink=1",
 		"name": "indium(II) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InCl<sub>3</sub>",
@@ -8560,13 +8596,13 @@
 		"formula": "In(IO<sub>3</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Indium(III)_iodate&action=edit&redlink=1",
 		"name": "indium(III) iodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InI<sub>2</sub>",
 		"link": "/w/index.php?title=Indium(II)_iodide&action=edit&redlink=1",
 		"name": "indium(II) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InI<sub>3</sub>",
@@ -8578,7 +8614,7 @@
 		"formula": "In(NO<sub>3</sub>)<sub>3</sub>&#xB7;4.5H<sub>2</sub>O",
 		"link": "/w/index.php?title=Indium(III)_nitrate_tetrahemihydrate&action=edit&redlink=1",
 		"name": "indium(III) nitrate tetrahemihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "In(OH)<sub>3</sub>",
@@ -8596,7 +8632,7 @@
 		"formula": "InPO<sub>4</sub>",
 		"link": "/w/index.php?title=Indium(III)_orthophosphate&action=edit&redlink=1",
 		"name": "indium(III) orthophosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "InS",
@@ -8674,7 +8710,7 @@
 		"formula": "KCNO",
 		"link": "/wiki/Potassium_cyanate",
 		"name": "potassium cyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KCNS",
@@ -8728,31 +8764,31 @@
 		"formula": "K<sub>2</sub>HPO<sub>3</sub>",
 		"link": "/w/index.php?title=Dipotassium_phosphite&action=edit&redlink=1",
 		"name": "dipotassium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "K<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/wiki/Dipotassium_phosphate",
 		"name": "dipotassium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "K<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>",
 		"link": "/wiki/Potassium_citrate",
 		"name": "potassium citrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "K<sub>3</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Tripotassium_phosphite&action=edit&redlink=1",
 		"name": "tripotassium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "K<sub>3</sub>PO<sub>4</sub>",
 		"link": "/wiki/Tripotassium_phosphate",
 		"name": "tripotassium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KF",
@@ -8764,13 +8800,13 @@
 		"formula": "KOF",
 		"link": "/w/index.php?title=Potassium_hypofluorite&action=edit&redlink=1",
 		"name": "potassium hypofluorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KH",
 		"link": "/wiki/Potassium_hydride",
 		"name": "potassium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KHCO<sub>3</sub>",
@@ -8782,7 +8818,7 @@
 		"formula": "KHS",
 		"link": "/wiki/Potassium_hydrosulfide",
 		"name": "potassium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KHSO<sub>3</sub>",
@@ -8800,13 +8836,13 @@
 		"formula": "KH<sub>2</sub>PO<sub>3</sub>",
 		"link": "/wiki/Monopotassium_phosphite",
 		"name": "monopotassium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KH<sub>2</sub>PO<sub>4</sub>",
 		"link": "/wiki/Monopotassium_phosphate",
 		"name": "monopotassium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "KI",
@@ -8848,7 +8884,7 @@
 		"formula": "K<sub>2</sub>N<sub>2</sub>O<sub>2</sub>",
 		"link": "/w/index.php?title=Potassium_hyponitrite&action=edit&redlink=1",
 		"name": "potassium hyponitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "K<sub>2</sub>O",
@@ -8914,7 +8950,7 @@
 		"formula": "LaBr<sub>3</sub>",
 		"link": "/wiki/Lanthanum(III)_bromide",
 		"name": "lanthanum(III) bromide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LaCl<sub>3</sub>",
@@ -8926,19 +8962,19 @@
 		"formula": "LaI<sub>3</sub>",
 		"link": "/w/index.php?title=Lanthanum(III)_iodide&action=edit&redlink=1",
 		"name": "lanthanum(III) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "La<sub>2</sub>O<sub>3</sub>",
 		"link": "/wiki/Lanthanum(III)_oxide",
 		"name": "lanthanum(III) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "La(OH)<sub>3</sub>",
 		"link": "/wiki/Lanthanum_hydroxide",
 		"name": "lanthanum hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LaPO<sub>4</sub>",
@@ -8950,25 +8986,25 @@
 		"formula": "LaPO<sub>4</sub>&#xB7;0.5H<sub>2</sub>O",
 		"link": "/w/index.php?title=Lanthanum(III)_phosphate_crystal_hemihydrate&action=edit&redlink=1",
 		"name": "lanthanum(III) phosphate crystal hemihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiAlH<sub>4</sub>",
 		"link": "/wiki/Lithium_aluminium_hydride",
 		"name": "lithium aluminium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li(AlSi<sub>2</sub>O<sub>6</sub>)",
 		"link": "/wiki/Keatite",
 		"name": "keatite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiBH<sub>4</sub>",
 		"link": "/wiki/Lithium_borohydride",
 		"name": "lithium borohydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiBr",
@@ -8980,7 +9016,7 @@
 		"formula": "LiBr&#xB7;2H<sub>2</sub>O",
 		"link": "/w/index.php?title=Lithium_bromide_dihydrate&action=edit&redlink=1",
 		"name": "lithium bromide dihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiBrO<sub>3</sub>",
@@ -9004,7 +9040,7 @@
 		"formula": "LiClO<sub>2</sub>",
 		"link": "/w/index.php?title=Lithium_chlorite&action=edit&redlink=1",
 		"name": "lithium chlorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiClO<sub>3</sub>",
@@ -9028,7 +9064,7 @@
 		"formula": "LiCNO",
 		"link": "/w/index.php?title=Lithium_cyanate&action=edit&redlink=1",
 		"name": "lithium cyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiC<sub>2</sub>H<sub>5</sub>O",
@@ -9046,7 +9082,7 @@
 		"formula": "LiH",
 		"link": "/wiki/Lithium_hydride",
 		"name": "lithium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiHCO<sub>3</sub>",
@@ -9058,13 +9094,13 @@
 		"formula": "LiHS",
 		"link": "/w/index.php?title=Lithium_hydrosulfide&action=edit&redlink=1",
 		"name": "lithium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiHSO<sub>3</sub>",
 		"link": "/w/index.php?title=Lithium_bisulfite&action=edit&redlink=1",
 		"name": "lithium bisulfite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiHSO<sub>4</sub>",
@@ -9076,13 +9112,13 @@
 		"formula": "LiH<sub>2</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Monolithium_phosphite&action=edit&redlink=1",
 		"name": "monolithium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiH<sub>2</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Monolithium_phosphate&action=edit&redlink=1",
 		"name": "monolithium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiI",
@@ -9100,7 +9136,7 @@
 		"formula": "LiNa",
 		"link": "/w/index.php?title=Sodium_lithium&action=edit&redlink=1",
 		"name": "sodium lithium",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiNO<sub>2</sub>",
@@ -9118,7 +9154,7 @@
 		"formula": "LiNO<sub>3</sub>&#xB7;H<sub>2</sub>O",
 		"link": "/w/index.php?title=Lithium_nitrate_monohydrate&action=edit&redlink=1",
 		"name": "lithium nitrate monohydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "LiOH",
@@ -9136,7 +9172,7 @@
 		"formula": "LiVO<sub>3</sub>&#xB7;2H<sub>2</sub>O",
 		"link": "/w/index.php?title=Lithium_metavanadate_dihydrate&action=edit&redlink=1",
 		"name": "lithium metavanadate dihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>2</sub>B<sub>4</sub>O<sub>7</sub>&#xB7;5H<sub>2</sub>O",
@@ -9172,13 +9208,13 @@
 		"formula": "Li<sub>2</sub>HPO<sub>3</sub>",
 		"link": "/w/index.php?title=Dilithium_phosphite&action=edit&redlink=1",
 		"name": "dilithium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/w/index.php?title=Dilithium_phosphate&action=edit&redlink=1",
 		"name": "dilithium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>2</sub>MoO<sub>4</sub>",
@@ -9196,7 +9232,7 @@
 		"formula": "Li<sub>2</sub>N<sub>2</sub>O<sub>2</sub>",
 		"link": "/w/index.php?title=Lithium_hyponitrite&action=edit&redlink=1",
 		"name": "lithium hyponitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>2</sub>O",
@@ -9247,9 +9283,10 @@
 		"cas": "10102-24-6"
 	},
 	{
-		"formula": "<a href=\"/w/index.php?title=Lithium_orthosilicate&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lithium orthosilicate (page does not exist)\">lithium orthosilicate</a>",
-		"name": "",
-		"cas": ""
+		"formula": "Li<sub>2</sub>SiO<sub>3</sub>",
+		"link": "/w/index.php?title=Lithium_orthosilicate&action=edit&redlink=1",
+		"name": "lithium orthosilicate",
+		"cas": "63985-45-5"
 	},
 	{
 		"formula": "Li<sub>2</sub>TeO<sub>3</sub>",
@@ -9279,19 +9316,19 @@
 		"formula": "Li<sub>2</sub>ZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Lithium_metazirconate&action=edit&redlink=1",
 		"name": "lithium metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>3</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Trilithium_phosphite&action=edit&redlink=1",
 		"name": "trilithium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Li<sub>3</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Trilithium_phosphate&action=edit&redlink=1",
 		"name": "trilithium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MgBr<sub>2</sub>",
@@ -9339,7 +9376,7 @@
 		"formula": "Mg(ClO<sub>3</sub>)<sub>2</sub>&#xB7;<i>x</i>H<sub>2</sub>O",
 		"link": "/w/index.php?title=Magnesium_chlorate_hydrate&action=edit&redlink=1",
 		"name": "magnesium chlorate hydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mg(ClO<sub>4</sub>)<sub>2</sub>",
@@ -9363,7 +9400,7 @@
 		"formula": "MgCrO<sub>4</sub>&#xB7;5H<sub>2</sub>O",
 		"link": "/w/index.php?title=Magnesium_chromate_pentahydrate&action=edit&redlink=1",
 		"name": "magnesium chromate pentahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MgF<sub>2</sub>",
@@ -9393,7 +9430,7 @@
 		"formula": "Mg(NO<sub>2</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Magnesium_nitrite&action=edit&redlink=1",
 		"name": "magnesium nitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mg(NO<sub>3</sub>)<sub>2</sub>",
@@ -9429,7 +9466,7 @@
 		"formula": "MgPo",
 		"link": "/wiki/Magnesium_polonide",
 		"name": "magnesium polonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MgS",
@@ -9483,7 +9520,7 @@
 		"formula": "Mg(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Magnesium_metavanadate&action=edit&redlink=1",
 		"name": "magnesium metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MgWO<sub>4</sub>",
@@ -9495,7 +9532,7 @@
 		"formula": "Mg<sub>2</sub>Al(AlSiO<sub>5</sub>)(OH)<sub>4</sub>",
 		"link": "/wiki/Amesite",
 		"name": "amesite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mg<sub>2</sub>P<sub>2</sub>O<sub>7</sub>",
@@ -9543,19 +9580,19 @@
 		"formula": "Mg<sub>3</sub>(VO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Magnesium_orthovanadate&action=edit&redlink=1",
 		"name": "magnesium orthovanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MnAs",
 		"link": "/w/index.php?title=Manganese(III)_arsenide&action=edit&redlink=1",
 		"name": "manganese(III) arsenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MnBi",
 		"link": "/w/index.php?title=Manganese(III)_bismuthide&action=edit&redlink=1",
 		"name": "manganese(III) bismuthide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MnBr<sub>2</sub>",
@@ -9609,7 +9646,7 @@
 		"formula": "MnMoO<sub>4</sub>",
 		"link": "/w/index.php?title=Manganese(II)_orthomolybdate&action=edit&redlink=1",
 		"name": "manganese(II) orthomolybdate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mn(NO<sub>3</sub>)<sub>2</sub>",
@@ -9657,7 +9694,7 @@
 		"formula": "MnPb<sub>8</sub>(Si<sub>2</sub>O<sub>7</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Barysilate&action=edit&redlink=1",
 		"name": "barysilate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MnS",
@@ -9675,7 +9712,7 @@
 		"formula": "MnZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Manganese(II)_metazirconate&action=edit&redlink=1",
 		"name": "manganese(II) metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mn<sub>2</sub>O<sub>3</sub>",
@@ -9687,7 +9724,7 @@
 		"formula": "Mn<sub>3</sub>As<sub>2</sub>",
 		"link": "/w/index.php?title=Manganese(II)_arsenide&action=edit&redlink=1",
 		"name": "manganese(II) arsenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mn<sub>3</sub>O<sub>4</sub>",
@@ -9699,13 +9736,13 @@
 		"formula": "Mn<sub>3</sub>P<sub>2</sub>",
 		"link": "/w/index.php?title=Manganese(II)_phosphide&action=edit&redlink=1",
 		"name": "manganese(II) phosphide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Mn<sub>3</sub>Sb<sub>2</sub>",
 		"link": "/w/index.php?title=Manganese(II)_antimonide&action=edit&redlink=1",
 		"name": "manganese(II) antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "MoBr<sub>2</sub>",
@@ -9777,7 +9814,7 @@
 		"formula": "NH<sub>2</sub>COOH",
 		"link": "/wiki/Carbamic_acid",
 		"name": "carbamic acid",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NH<sub>2</sub>CONH<sub>2</sub>",
@@ -9819,7 +9856,7 @@
 		"formula": "(NH<sub>4</sub>)<sub>3</sub>N",
 		"link": "/wiki/Ammonium_nitride",
 		"name": "ammonium nitride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NH<sub>4</sub>Br",
@@ -9879,7 +9916,7 @@
 		"formula": "NH<sub>4</sub>OH",
 		"link": "/wiki/Ammonium_hydroxide",
 		"name": "ammonium hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "(NH<sub>4</sub>)<sub>2</sub>Ce(NO<sub>3</sub>)<sub>6</sub>",
@@ -9903,7 +9940,7 @@
 		"formula": "(NH<sub>4</sub>)<sub>2</sub>Hg(SCN)<sub>4</sub>",
 		"link": "/w/index.php?title=Mercury(II)_ammonium_thiocyanate&action=edit&redlink=1",
 		"name": "mercury(II) ammonium thiocyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "(NH<sub>4</sub>)<sub>2</sub>[PtCl<sub>6</sub>]",
@@ -9939,19 +9976,19 @@
 		"formula": "NOCl",
 		"link": "/wiki/Nitrosyl_chloride",
 		"name": "nitrosyl chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NOBr",
 		"link": "/wiki/Nitrosyl_bromide",
 		"name": "nitrosyl bromide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NOI",
 		"link": "/w/index.php?title=Nitrosyl_iodide&action=edit&redlink=1",
 		"name": "nitrosyl iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NO<sub>2</sub>",
@@ -10029,7 +10066,7 @@
 		"formula": "NaAlSi<sub>3</sub>O<sub>3</sub>",
 		"link": "/wiki/Albite",
 		"name": "albite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaAsO<sub>2</sub>",
@@ -10053,7 +10090,7 @@
 		"formula": "Na[B(NO<sub>3</sub>)<sub>4</sub>]",
 		"link": "/w/index.php?title=Sodium_tetranitratoborate(III)&action=edit&redlink=1",
 		"name": "sodium tetranitratoborate(III)",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaBr",
@@ -10071,13 +10108,13 @@
 		"formula": "NaCNO",
 		"link": "/wiki/Sodium_cyanate",
 		"name": "sodium cyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaC<sub>6</sub>F<sub>5</sub>COO",
 		"link": "/w/index.php?title=Pentafluorobenzoate&action=edit&redlink=1",
 		"name": "pentafluorobenzoate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaC<sub>6</sub>H<sub>5</sub>COO",
@@ -10095,7 +10132,7 @@
 		"formula": "NaCa<sub>2</sub>(Al<sub>5</sub>Si<sub>5</sub>O<sub>20</sub>) &#xB7; 6H<sub>2</sub>O",
 		"link": "/wiki/Thomsonite",
 		"name": "thomsonite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaCl",
@@ -10131,7 +10168,7 @@
 		"formula": "NaOF",
 		"link": "/w/index.php?title=Sodium_hypofluorite&action=edit&redlink=1",
 		"name": "sodium hypofluorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaH",
@@ -10155,7 +10192,7 @@
 		"formula": "NaHS",
 		"link": "/wiki/Sodium_hydrosulfide",
 		"name": "sodium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaHSO<sub>3</sub>",
@@ -10173,13 +10210,13 @@
 		"formula": "NaH<sub>2</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Monosodium_phosphite&action=edit&redlink=1",
 		"name": "monosodium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaH<sub>2</sub>PO<sub>4</sub>",
 		"link": "/wiki/Monosodium_phosphate",
 		"name": "monosodium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaI",
@@ -10209,13 +10246,13 @@
 		"formula": "NaNbO<sub>3</sub>",
 		"link": "/w/index.php?title=Sodium_metaniobate&action=edit&redlink=1",
 		"name": "sodium metaniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaNbO<sub>3</sub> &#xB7; 7H<sub>2</sub>O",
 		"link": "/w/index.php?title=Sodium_metaniobate_heptahydrate&action=edit&redlink=1",
 		"name": "sodium metaniobate heptahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaOCl",
@@ -10239,13 +10276,13 @@
 		"formula": "NaSeO<sub>3</sub>",
 		"link": "/wiki/Sodium_selenite",
 		"name": "sodium selenite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaTaO<sub>3</sub>",
 		"link": "/w/index.php?title=Sodium_metatantalate&action=edit&redlink=1",
 		"name": "sodium metatantalate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NaVO<sub>3</sub>",
@@ -10275,13 +10312,13 @@
 		"formula": "Na<sub>2</sub>HPO<sub>3</sub>",
 		"link": "/w/index.php?title=Disodium_phosphite&action=edit&redlink=1",
 		"name": "disodium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/wiki/Disodium_phosphate",
 		"name": "disodium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>2</sub>MoS<sub>4</sub>",
@@ -10293,7 +10330,7 @@
 		"formula": "Na<sub>2</sub>N<sub>2</sub>O<sub>2</sub>",
 		"link": "/wiki/Sodium_hyponitrite",
 		"name": "sodium hyponitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>2</sub>O<sub>2</sub>",
@@ -10371,13 +10408,13 @@
 		"formula": "Na<sub>2</sub>TeO<sub>4</sub>",
 		"link": "/w/index.php?title=Sodium_tellurate&action=edit&redlink=1",
 		"name": "sodium tellurate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>2</sub>TiO<sub>3</sub>",
 		"link": "/wiki/Sodium_metatitanate",
 		"name": "sodium metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>2</sub>Zn(OH)<sub>4</sub>",
@@ -10395,7 +10432,7 @@
 		"formula": "Na<sub>2</sub>ZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Sodium_metazirconate&action=edit&redlink=1",
 		"name": "sodium metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>3</sub>AlF<sub>6</sub>",
@@ -10407,7 +10444,7 @@
 		"formula": "Na<sub>3</sub>[Co(CO<sub>3</sub>)<sub>3</sub>]",
 		"link": "/w/index.php?title=Sodium_tricarbonatocobaltate(III)&action=edit&redlink=1",
 		"name": "sodium tricarbonatocobaltate(III)",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>3</sub>VO<sub>4</sub>",
@@ -10419,19 +10456,19 @@
 		"formula": "Na<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>",
 		"link": "/wiki/Trisodium_citrate",
 		"name": "trisodium citrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>3</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Trisodium_phosphite&action=edit&redlink=1",
 		"name": "trisodium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>3</sub>PO<sub>4</sub>",
 		"link": "/wiki/Trisodium_phosphate",
 		"name": "trisodium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Na<sub>4</sub>V<sub>2</sub>O<sub>7</sub>",
@@ -10467,7 +10504,7 @@
 		"formula": "Nb<sub>2</sub>O<sub>3</sub>",
 		"link": "/w/index.php?title=Niobium(III)_oxide&action=edit&redlink=1",
 		"name": "niobium(III) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NdCl<sub>2</sub>",
@@ -10521,13 +10558,13 @@
 		"formula": "NiBr<sub>2</sub> &#xB7; 6H<sub>2</sub>O",
 		"link": "/w/index.php?title=Nickel(II)_bromide_hexahydrate&action=edit&redlink=1",
 		"name": "nickel(II) bromide hexahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni(CO)<sub>3</sub>",
 		"link": "/wiki/Nickel(II)_carbonate",
 		"name": "nickel(II) carbonate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni(CO)<sub>4</sub>",
@@ -10551,7 +10588,7 @@
 		"formula": "NiFe<sub>2</sub>O<sub>4</sub>",
 		"link": "/w/index.php?title=Nickel(II)_iron(III)_oxide&action=edit&redlink=1",
 		"name": "nickel(II) iron(III) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NiI<sub>2</sub>",
@@ -10563,13 +10600,13 @@
 		"formula": "Ni(H<sub>2</sub>PO)<sub>2</sub> &#xB7; 6H<sub>2</sub>O",
 		"link": "/w/index.php?title=Nickel(II)_hypophosphite_hexahydrate&action=edit&redlink=1",
 		"name": "nickel(II) hypophosphite hexahydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NiMoO<sub>4</sub>",
 		"link": "/w/index.php?title=Nickel(II)_orthomolybdate&action=edit&redlink=1",
 		"name": "nickel(II) orthomolybdate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni(NO<sub>3</sub>)<sub>2</sub> &#xB7; 6H<sub>2</sub>O",
@@ -10581,7 +10618,7 @@
 		"formula": "NiOOH",
 		"link": "/w/index.php?title=Nickel_oxo-hydroxide&action=edit&redlink=1",
 		"name": "nickel oxo-hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NiO",
@@ -10617,7 +10654,7 @@
 		"formula": "NiSb",
 		"link": "/wiki/Nickel_antimonide",
 		"name": "nickel antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NiSe",
@@ -10629,25 +10666,25 @@
 		"formula": "NiTiO<sub>3</sub>",
 		"link": "/w/index.php?title=Nickel(II)_metatitanate&action=edit&redlink=1",
 		"name": "nickel(II) metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Nickel(II)_metavanadate&action=edit&redlink=1",
 		"name": "nickel(II) metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "NiWO<sub>4</sub>",
 		"link": "/w/index.php?title=Nickel(II)_orthotungstate&action=edit&redlink=1",
 		"name": "nickel(II) orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni<sub>2</sub>SiO<sub>4</sub>",
 		"link": "/w/index.php?title=Nickel(II)_orthosilicate&action=edit&redlink=1",
 		"name": "nickel(II) orthosilicate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Ni<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
@@ -10659,7 +10696,7 @@
 		"formula": "Ni<sub>3</sub>Sb<sub>2</sub>",
 		"link": "/w/index.php?title=Nickel(II)_antimonide&action=edit&redlink=1",
 		"name": "nickel(II) antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "O",
@@ -10737,7 +10774,7 @@
 		"formula": "P<sub>2</sub>Se<sub>3</sub>",
 		"link": "/w/index.php?title=Diphosphorus_triselenide&action=edit&redlink=1",
 		"name": "diphosphorus triselenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "P<sub>3</sub>N<sub>5</sub>",
@@ -10767,7 +10804,7 @@
 		"formula": "PbCl<sub>4</sub>",
 		"link": "/wiki/Lead(IV)_chloride",
 		"name": "lead(IV) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "PbI<sub>2</sub>",
@@ -10785,7 +10822,7 @@
 		"formula": "Pb(N<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Lead(II)_nitride&action=edit&redlink=1",
 		"name": "lead(II) nitride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Pb(NO<sub>3</sub>)<sub>2</sub>",
@@ -10803,7 +10840,7 @@
 		"formula": "Pb(OH)<sub>4</sub>",
 		"link": "/wiki/Lead(IV)_hydroxide",
 		"name": "lead(IV) hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "PbC<sub>2</sub>O<sub>4</sub>",
@@ -10863,7 +10900,7 @@
 		"formula": "PoCl<sub>2</sub>",
 		"link": "/wiki/Polonium_dichloride",
 		"name": "polonium dichloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "PoCl<sub>4</sub>",
@@ -10887,7 +10924,7 @@
 		"formula": "PoO",
 		"link": "/wiki/Polonium_monoxide",
 		"name": "polonium monoxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "PoO<sub>2</sub>",
@@ -10899,13 +10936,13 @@
 		"formula": "PoO<sub>3</sub>",
 		"link": "/wiki/Polonium_trioxide",
 		"name": "polonium trioxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RaCl<sub>2</sub>",
 		"link": "/wiki/Radium_chloride",
 		"name": "radium chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbBr",
@@ -10917,25 +10954,25 @@
 		"formula": "RbBrO",
 		"link": "/w/index.php?title=Rubidium_hypobromite&action=edit&redlink=1",
 		"name": "rubidium hypobromite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbBrO<sub>2</sub>",
 		"link": "/w/index.php?title=Rubidium_bromite&action=edit&redlink=1",
 		"name": "rubidium bromite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbBrO<sub>3</sub>",
 		"link": "/w/index.php?title=Rubidium_bromate&action=edit&redlink=1",
 		"name": "rubidium bromate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbBrO<sub>4</sub>",
 		"link": "/w/index.php?title=Rubidium_perbromate&action=edit&redlink=1",
 		"name": "rubidium perbromate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbCl",
@@ -10947,13 +10984,13 @@
 		"formula": "RbClO",
 		"link": "/w/index.php?title=Rubidium_hypochlorite&action=edit&redlink=1",
 		"name": "rubidium hypochlorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbClO<sub>2</sub>",
 		"link": "/w/index.php?title=Rubidium_chlorite&action=edit&redlink=1",
 		"name": "rubidium chlorite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbClO<sub>3</sub>",
@@ -10977,7 +11014,7 @@
 		"formula": "RbCNO",
 		"link": "/w/index.php?title=Rubidium_cyanate&action=edit&redlink=1",
 		"name": "rubidium cyanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbF",
@@ -10989,25 +11026,25 @@
 		"formula": "RbH",
 		"link": "/wiki/Rubidium_hydride",
 		"name": "rubidium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbH<sub>2</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Monorubidium_phosphite&action=edit&redlink=1",
 		"name": "monorubidium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbH<sub>2</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Monorubidium_phosphate&action=edit&redlink=1",
 		"name": "monorubidium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbHS",
 		"link": "/w/index.php?title=Rubidium_hydrosulfide&action=edit&redlink=1",
 		"name": "rubidium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbI",
@@ -11019,25 +11056,25 @@
 		"formula": "RbIO",
 		"link": "/w/index.php?title=Rubidium_hypoiodite&action=edit&redlink=1",
 		"name": "rubidium hypoiodite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbIO<sub>2</sub>",
 		"link": "/w/index.php?title=Rubidium_iodite&action=edit&redlink=1",
 		"name": "rubidium iodite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbIO<sub>3</sub>",
 		"link": "/w/index.php?title=Rubidium_iodate&action=edit&redlink=1",
 		"name": "rubidium iodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbIO<sub>4</sub>",
 		"link": "/w/index.php?title=Rubidium_periodate&action=edit&redlink=1",
 		"name": "rubidium periodate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbOH",
@@ -11055,7 +11092,7 @@
 		"formula": "Rb<sub>2</sub>O<sub>2</sub>",
 		"link": "/w/index.php?title=Rubidium_peroxide&action=edit&redlink=1",
 		"name": "rubidium peroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>2</sub>CO<sub>3</sub>",
@@ -11067,13 +11104,13 @@
 		"formula": "Rb<sub>2</sub>S",
 		"link": "/w/index.php?title=Rubidium_sulfide&action=edit&redlink=1",
 		"name": "rubidium sulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>2</sub>SO<sub>3</sub>",
 		"link": "/w/index.php?title=Rubidium_sulfite&action=edit&redlink=1",
 		"name": "rubidium sulfite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>2</sub>SO<sub>4</sub>",
@@ -11085,37 +11122,37 @@
 		"formula": "Rb<sub>2</sub>HPO<sub>3</sub>",
 		"link": "/w/index.php?title=Dirubidium_phosphite&action=edit&redlink=1",
 		"name": "dirubidium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>2</sub>HPO<sub>4</sub>",
 		"link": "/w/index.php?title=Dirubidium_phosphate&action=edit&redlink=1",
 		"name": "dirubidium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>3</sub>PO<sub>3</sub>",
 		"link": "/w/index.php?title=Trirubidium_phosphite&action=edit&redlink=1",
 		"name": "trirubidium phosphite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Rb<sub>3</sub>PO<sub>4</sub>",
 		"link": "/w/index.php?title=Trirubidium_phosphate&action=edit&redlink=1",
 		"name": "trirubidium phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbHCO<sub>3</sub>",
 		"link": "/w/index.php?title=Rubidium_bicarbonate&action=edit&redlink=1",
 		"name": "rubidium bicarbonate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbHSO<sub>3</sub>",
 		"link": "/w/index.php?title=Rubidium_bisulfite&action=edit&redlink=1",
 		"name": "rubidium bisulfite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbHSO<sub>4</sub>",
@@ -11127,7 +11164,7 @@
 		"formula": "RbNO<sub>2</sub>",
 		"link": "/w/index.php?title=Rubidium_nitrite&action=edit&redlink=1",
 		"name": "rubidium nitrite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RbNO<sub>3</sub>",
@@ -11139,7 +11176,7 @@
 		"formula": "RnF<sub>2</sub>",
 		"link": "/wiki/Radon_difluoride",
 		"name": "radon difluoride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "RuCl<sub>3</sub>",
@@ -11205,7 +11242,7 @@
 		"formula": "SO<sub>2</sub>OOH<sup>&#x2212;</sup>",
 		"link": "/w/index.php?title=Peroxymonosulfurous_acid_(aqueous)&action=edit&redlink=1",
 		"name": "peroxymonosulfurous acid (aqueous)",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SO<sub>3</sub>",
@@ -11271,7 +11308,7 @@
 		"formula": "SbPO<sub>4</sub>",
 		"link": "/w/index.php?title=Antimony(III)_phosphate&action=edit&redlink=1",
 		"name": "antimony(III) phosphate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sb<sub>2</sub>OS<sub>2</sub>",
@@ -11307,13 +11344,13 @@
 		"formula": "Sb<sub>2</sub>Se<sub>5</sub>",
 		"link": "/w/index.php?title=Antimony(V)_selenide&action=edit&redlink=1",
 		"name": "antimony(V) selenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sb<sub>2</sub>Te<sub>3</sub>",
 		"link": "/wiki/Antimony(III)_telluride",
 		"name": "antimony(III) telluride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sc<sub>2</sub>O<sub>3</sub>",
@@ -11331,7 +11368,7 @@
 		"formula": "SeCl",
 		"link": "/wiki/Selenium(I)_chloride",
 		"name": "selenium(I) chloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SeCl<sub>4</sub>",
@@ -11415,7 +11452,7 @@
 		"formula": "Si<sub>2</sub>O<sub>7</sub><sup>6&#x2212;</sup>",
 		"link": "/w/index.php?title=Disilicate_ion&action=edit&redlink=1",
 		"name": "disilicate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Si<sub>3</sub>N<sub>4</sub>",
@@ -11427,13 +11464,13 @@
 		"formula": "Si<sub>6</sub>O<sub>18</sub><sup>12&#x2212;</sup>",
 		"link": "/w/index.php?title=Cyclosilicate_ion&action=edit&redlink=1",
 		"name": "cyclosilicate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnBrCl<sub>3</sub>",
 		"link": "/w/index.php?title=Tin(IV)_bromotrichloride&action=edit&redlink=1",
 		"name": "tin(IV) bromotrichloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnBr<sub>2</sub>",
@@ -11445,7 +11482,7 @@
 		"formula": "SnBr<sub>2</sub>Cl<sub>2</sub>",
 		"link": "/w/index.php?title=Tin(IV)_dibromodichloride&action=edit&redlink=1",
 		"name": "tin(IV) dibromodichloride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnBr<sub>3</sub>Cl",
@@ -11463,13 +11500,13 @@
 		"formula": "Sn(CH<sub>3</sub>COO)<sub>2</sub>",
 		"link": "/w/index.php?title=Tin(II)_acetate&action=edit&redlink=1",
 		"name": "tin(II) acetate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sn(CH<sub>3</sub>COO)<sub>4</sub>",
 		"link": "/w/index.php?title=Tin(IV)_acetate&action=edit&redlink=1",
 		"name": "tin(IV) acetate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnCl<sub>2</sub>",
@@ -11481,7 +11518,7 @@
 		"formula": "SnCl<sub>2</sub>I<sub>2</sub>",
 		"link": "/w/index.php?title=Tin(IV)_dichlorodiiodide&action=edit&redlink=1",
 		"name": "tin(IV) dichlorodiiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnCl<sub>4</sub>",
@@ -11505,19 +11542,19 @@
 		"formula": "Sn(OH)<sub>2</sub>",
 		"link": "/wiki/Tin(II)_hydroxide",
 		"name": "tin(II) hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sn(OH)<sub>4</sub>",
 		"link": "/wiki/Tin(IV)_hydroxide",
 		"name": "tin(IV) hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnO",
 		"link": "/wiki/Tin(II)_oxide",
 		"name": "tin(II) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnO<sub>2</sub>",
@@ -11529,7 +11566,7 @@
 		"formula": "SnO<sub>3</sub><sup>2&#x2212;</sup>",
 		"link": "/wiki/Stannate",
 		"name": "stannate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnS",
@@ -11547,7 +11584,7 @@
 		"formula": "Sn(SO<sub>4</sub>)<sub>2</sub>&#xB7;2H<sub>2</sub>O",
 		"link": "/w/index.php?title=Tin(IV)_sulfate_dihydrate&action=edit&redlink=1",
 		"name": "tin(IV) sulfate dihydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SnSe",
@@ -11571,19 +11608,19 @@
 		"formula": "SnTe<sub>4</sub>",
 		"link": "/w/index.php?title=Tin(IV)_telluride&action=edit&redlink=1",
 		"name": "tin(IV) telluride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sn(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Tin(II)_metavanadate&action=edit&redlink=1",
 		"name": "tin(II) metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sn<sub>3</sub>Sb<sub>4</sub>",
 		"link": "/w/index.php?title=Tin(IV)_antimonide&action=edit&redlink=1",
 		"name": "tin(IV) antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SrBr<sub>2</sub>",
@@ -11625,13 +11662,13 @@
 		"formula": "SrHfO<sub>3</sub>",
 		"link": "/w/index.php?title=Strontium_hafnate&action=edit&redlink=1",
 		"name": "strontium hafnate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sr(HS)<sub>2</sub>",
 		"link": "/w/index.php?title=Strontium_hydrosulfide&action=edit&redlink=1",
 		"name": "strontium hydrosulfide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SrI<sub>2</sub>",
@@ -11649,7 +11686,7 @@
 		"formula": "Sr(MnO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Strontium_permanganate&action=edit&redlink=1",
 		"name": "strontium permanganate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SrMoO<sub>4</sub>",
@@ -11661,7 +11698,7 @@
 		"formula": "Sr(NbO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Strontium_metaniobate&action=edit&redlink=1",
 		"name": "strontium metaniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SrO",
@@ -11673,13 +11710,13 @@
 		"formula": "Sr(OH)<sub>2</sub>",
 		"link": "/wiki/Strontium_hydroxide",
 		"name": "strontium hydroxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Sr<sub>2</sub>RuO<sub>4</sub>",
 		"link": "/wiki/Strontium_ruthenate",
 		"name": "strontium ruthenate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "SrS",
@@ -11715,7 +11752,7 @@
 		"formula": "SrTiO<sub>3</sub>",
 		"link": "/w/index.php?title=Strontium_metatitanate&action=edit&redlink=1",
 		"name": "strontium metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "T<sub>2</sub>O",
@@ -11727,7 +11764,7 @@
 		"formula": "TaBr<sub>3</sub>",
 		"link": "/w/index.php?title=Tantalum(III)_bromide&action=edit&redlink=1",
 		"name": "tantalum(III) bromide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TaBr<sub>5</sub>",
@@ -11751,7 +11788,7 @@
 		"formula": "TaO<sub>3</sub><sup>&#x2212;</sup>",
 		"link": "/wiki/Tantalate",
 		"name": "tantalate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TcO<sub>4</sub><sup>&#x2212;</sup>",
@@ -11787,7 +11824,7 @@
 		"formula": "TeI<sub>2</sub>",
 		"link": "/w/index.php?title=Tellurium(II)_iodide&action=edit&redlink=1",
 		"name": "tellurium(II) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TeI<sub>4</sub>",
@@ -11829,13 +11866,13 @@
 		"formula": "ThO<sub>2</sub>",
 		"link": "/wiki/Thorium(IV)_oxide",
 		"name": "thorium(IV) oxide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Th(SO<sub>4</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Thorium(IV)_sulfate&action=edit&redlink=1",
 		"name": "thorium(IV) sulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TiBr<sub>4</sub>",
@@ -11847,13 +11884,13 @@
 		"formula": "TiCl<sub>2</sub>I<sub>2</sub>",
 		"link": "/w/index.php?title=Titanium(IV)_dichlorodiiodide&action=edit&redlink=1",
 		"name": "titanium(IV) dichlorodiiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TiCl<sub>3</sub>I",
 		"link": "/w/index.php?title=Titanium(IV)_trichloroiodide&action=edit&redlink=1",
 		"name": "titanium(IV) trichloroiodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TiCl<sub>4</sub>",
@@ -11865,7 +11902,7 @@
 		"formula": "TiH<sub>2</sub>",
 		"link": "/wiki/Titanium_hydride",
 		"name": "titanium hydride",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TiO<sub>2</sub>",
@@ -11877,7 +11914,7 @@
 		"formula": "TiO<sub>3</sub><sup>2&#x2212;</sup>",
 		"link": "/wiki/Titanate",
 		"name": "titanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TlBr",
@@ -11943,7 +11980,7 @@
 		"formula": "TlI<sub>3</sub>",
 		"link": "/w/index.php?title=Thallium(III)_iodide&action=edit&redlink=1",
 		"name": "thallium(III) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TiI<sub>4</sub>",
@@ -11955,7 +11992,7 @@
 		"formula": "TiO(NO<sub>3</sub>)<sub>2</sub> &#xB7; <i>x</i>H<sub>2</sub>O",
 		"link": "/w/index.php?title=Titanium(IV)_oxynitrate_hydrate&action=edit&redlink=1",
 		"name": "titanium(IV) oxynitrate hydrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TlNO<sub>3</sub>",
@@ -11985,31 +12022,31 @@
 		"formula": "Tl<sub>2</sub>MoO<sub>4</sub>",
 		"link": "/w/index.php?title=Thallium(I)_orthomolybdate&action=edit&redlink=1",
 		"name": "thallium(I) orthomolybdate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Tl<sub>2</sub>SeO<sub>3</sub>",
 		"link": "/w/index.php?title=Thallium(I)_selenite&action=edit&redlink=1",
 		"name": "thallium(I) selenite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Tl<sub>2</sub>TeO<sub>3</sub>",
 		"link": "/w/index.php?title=Thallium(I)_tellurite&action=edit&redlink=1",
 		"name": "thallium(I) tellurite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Tl<sub>2</sub>WO<sub>4</sub>",
 		"link": "/w/index.php?title=Thallium(I)_orthotungstate&action=edit&redlink=1",
 		"name": "thallium(I) orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Tl<sub>3</sub>As",
 		"link": "/w/index.php?title=Thallium(I)_arsenide&action=edit&redlink=1",
 		"name": "thallium(I) arsenide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "TmCl<sub>3</sub>",
@@ -12021,13 +12058,13 @@
 		"formula": "Tm(NO<sub>3</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Thulium(III)_nitrate&action=edit&redlink=1",
 		"name": "thulium(III) nitrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Tm<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
 		"link": "/w/index.php?title=Thullium(III)_sulfate&action=edit&redlink=1",
 		"name": "thullium(III) sulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "UBr<sub>2</sub>",
@@ -12081,7 +12118,7 @@
 		"formula": "UI<sub>3</sub>",
 		"link": "/wiki/Uranium(III)_iodide",
 		"name": "uranium(III) iodide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "UN",
@@ -12123,7 +12160,7 @@
 		"formula": "UO<sub>2</sub>SO<sub>4</sub>",
 		"link": "/wiki/Uranyl_sulfate",
 		"name": "uranyl sulfate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "UO<sub>3</sub>",
@@ -12159,7 +12196,7 @@
 		"formula": "VBr<sub>2</sub>",
 		"link": "/wiki/Vanadium(II)_bromide",
 		"name": "vanadium(II) bromide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "VBr<sub>3</sub>",
@@ -12213,7 +12250,7 @@
 		"formula": "V<sub>2</sub>O<sub>7</sub><sup>4&#x2212;</sup>",
 		"link": "/w/index.php?title=Divanadate_ion&action=edit&redlink=1",
 		"name": "divanadate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "WBr<sub>2</sub>",
@@ -12657,7 +12694,7 @@
 		"formula": "Zn(NbO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Zinc_metaniobate&action=edit&redlink=1",
 		"name": "zinc metaniobate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnO",
@@ -12681,7 +12718,7 @@
 		"formula": "Zn(OH)<sub>4</sub><sup>2&#x2212;</sup>",
 		"link": "/wiki/Zincate_ion",
 		"name": "zincate ion",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnS",
@@ -12729,7 +12766,7 @@
 		"formula": "Zn(TaO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Zinc_metatantalate&action=edit&redlink=1",
 		"name": "zinc metatantalate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnTe",
@@ -12741,37 +12778,37 @@
 		"formula": "ZnTeO<sub>3</sub>",
 		"link": "/w/index.php?title=Zinc_tellurite&action=edit&redlink=1",
 		"name": "zinc tellurite",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnTeO<sub>4</sub>",
 		"link": "/w/index.php?title=Zinc_tellurate&action=edit&redlink=1",
 		"name": "zinc tellurate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnTiO<sub>3</sub>",
 		"link": "/w/index.php?title=Zinc_metatitanate&action=edit&redlink=1",
 		"name": "zinc metatitanate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Zn(VO<sub>3</sub>)<sub>2</sub>",
 		"link": "/w/index.php?title=Zinc_metavanadate&action=edit&redlink=1",
 		"name": "zinc metavanadate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnWO<sub>4</sub>",
 		"link": "/w/index.php?title=Zinc_orthotungstate&action=edit&redlink=1",
 		"name": "zinc orthotungstate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZnZrO<sub>3</sub>",
 		"link": "/w/index.php?title=Zinc_metazirconate&action=edit&redlink=1",
 		"name": "zinc metazirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Zn<sub>2</sub>P<sub>2</sub>O<sub>7</sub>",
@@ -12819,7 +12856,7 @@
 		"formula": "Zn<sub>3</sub>Sb<sub>2</sub>",
 		"link": "/wiki/Zinc_antimonide",
 		"name": "zinc antimonide",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZrB<sub>2</sub>",
@@ -12867,7 +12904,7 @@
 		"formula": "Zr(NO<sub>3</sub>)<sub>4</sub>",
 		"link": "/wiki/Zirconium(IV)_nitrate",
 		"name": "zirconium(IV) nitrate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "Zr(OH)<sub>4</sub>",
@@ -12885,7 +12922,7 @@
 		"formula": "ZrO<sub>3</sub><sup>2&#x2212;</sup>",
 		"link": "/wiki/Zirconate",
 		"name": "zirconate",
-		"cas": ""
+		"cas": "-"
 	},
 	{
 		"formula": "ZrP<sub>2</sub>",
