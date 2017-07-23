@@ -2,7 +2,7 @@
 * @Author: Mujib Ansari
 * @Date:   2017-07-22 22:15:39
 * @Last Modified by:   Mujib Ansari
-* @Last Modified time: 2017-07-23 00:34:29
+* @Last Modified time: 2017-07-23 21:37:23
 */
 
 'use strict';
@@ -22,15 +22,15 @@ var fs = require( 'fs' ),
 		},
 
 
-		allElmentList: null,
+		allElmentFile: null,
 
 		dummySuccessRes: { status: '200', response: 'Success.' }
 	};
 
 app.get( '/v1/api/list', function( p_req, p_res ) {
 
-	if( oScope.allElmentList )
-		p_res.json( oScope.allElmentList )
+	if( oScope.allElmentFile )
+		p_res.json( oScope.allElmentFile )
 	else {
 		extractList( p_res, function() {
 			p_res.send( oScope.dummySuccessRes );
@@ -39,7 +39,13 @@ app.get( '/v1/api/list', function( p_req, p_res ) {
 
 } );
 
+app.get( '/v1/api/details', function( p_req, p_res ) {
 
+	scrappingDetails.call( p_res, function() {
+
+	} )
+
+} );
 
 function customRead( fileName, p_res, p_fCallback ) {
 	
@@ -90,7 +96,6 @@ function extractList( p_API_res, p_fCallback ) {
 				
 			} );
 			
-			
 		}
 
 	} );
@@ -138,4 +143,31 @@ function getAllList( $, p_fCallback ) {
 
 function isValid( p_i ) {
 	return ( !isNaN( parseInt( p_i ) ) );
+};
+/*===================================
+*====================================*
+=====================================*/
+function scrappingDetails( p_API_resp, p_fCallback ) {
+
+	if( oScope.allElmentFile ) {
+		recursiveScrap( function() {
+				
+		} );
+	}
+	else {
+		customRead( oScope.fileNames.allElmentList, p_API_resp, function( p_fileData ) {
+			oScope.allElmentFile = JSON.parse( p_fileData );
+
+			recursiveScrap( function() {
+
+			} );
+		} );
+	}
+
+};
+
+function recursiveScrap( p_fCallback ) {
+
+	
+	
 };
