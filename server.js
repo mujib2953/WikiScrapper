@@ -2,7 +2,7 @@
 * @Author: Mujib Ansari
 * @Date:   2017-07-22 22:15:39
 * @Last Modified by:   Mujib Ansari
-* @Last Modified time: 2017-07-23 21:37:23
+* @Last Modified time: 2017-07-29 02:49:37
 */
 
 'use strict';
@@ -15,7 +15,8 @@ var fs = require( 'fs' ),
 	port = 8035,
 	oScope = {
 		url: {
-			list: 'https://en.wikipedia.org/wiki/Dictionary_of_chemical_formulas'
+			list: 'https://en.wikipedia.org/wiki/Dictionary_of_chemical_formulas',
+			baseUrl: 'https://en.wikipedia.org'
 		},
 		fileNames: {
 			allElmentList: 'files/allElmentList.json'
@@ -24,7 +25,8 @@ var fs = require( 'fs' ),
 
 		allElmentFile: null,
 
-		dummySuccessRes: { status: '200', response: 'Success.' }
+		dummySuccessRes: { status: '200', response: 'Success.' },
+		gCount: 0
 	};
 
 app.get( '/v1/api/list', function( p_req, p_res ) {
@@ -41,8 +43,8 @@ app.get( '/v1/api/list', function( p_req, p_res ) {
 
 app.get( '/v1/api/details', function( p_req, p_res ) {
 
-	scrappingDetails.call( p_res, function() {
-
+	scrappingDetails( p_res, function( p_response ) {
+		p_res.send( p_response );
 	} )
 
 } );
@@ -148,18 +150,19 @@ function isValid( p_i ) {
 *====================================*
 =====================================*/
 function scrappingDetails( p_API_resp, p_fCallback ) {
-
+	console.log( p_fCallback );
 	if( oScope.allElmentFile ) {
-		recursiveScrap( function() {
-				
+		recursiveScrap.call( oScope, function( p_reponse ) {
+			p_fCallback( p_reponse )
 		} );
 	}
 	else {
 		customRead( oScope.fileNames.allElmentList, p_API_resp, function( p_fileData ) {
 			oScope.allElmentFile = JSON.parse( p_fileData );
 
-			recursiveScrap( function() {
-
+			recursiveScrap.call( oScope, function( p_reponse ) {
+				
+				p_fCallback( p_reponse )
 			} );
 		} );
 	}
@@ -168,6 +171,102 @@ function scrappingDetails( p_API_resp, p_fCallback ) {
 
 function recursiveScrap( p_fCallback ) {
 
+	var nLen = this.allElmentFile.length,
+		currentElem = this.allElmentFile[ this.gCount ];
+
+	console.log( nLen, currentElem 	);
+
+	request( this.url.baseUrl + currentElem.link, function( p_err, p_htmlRes, p_html ) {
+
+		if( p_err )
+			p_fCallback( p_err )
+
+		var $ = cheerio.load( p_html ),
+			respJson = {},
+			tTable = $( '.infobox' ),
+			allTr = tTable.find( 'tr' ),
+			i = 0;
+
+
+		respJson.name = $( '#firstHeading' ).text().trim();
+		respJson.desc = removeRefrences( $( '#mw-content-text' ).find( 'p' ).eq( 0 ) );
+		respJson.images = [];
+
+		for( ; i < allTr.length - 3; i++ ) {
+
+			if( $( allTr[ i ] ).find( 'th' ).length == 0 ) {
+
+				if( $( $( allTr[ i ] ).find( 'td' ).eq( 0 ) ).attr( 'colspan' ) ) {
+					//--- found the colspan
+
+					// --- checks for Image
+					if( $( allTr[ i ] ).find( 'img' ).length != 0 ) {
+						// --- found Images
+						var image = $( allTr[ i ] ).find( 'img' ),
+							imgObj = {
+							alt: $( image ).attr( 'alt' ),
+							src: $( image ).attr( 'src' )
+						}
+						respJson.images.push( imgObj );
+					} else {
+						/*
+						*--- Assume there is no Image
+						*--- And have 2 child
+						*--- 1st will be an anchor tag represents the heading
+						*--- 2nd will be a div having multiple values
+						*/
+
+						// --- this line doesn't allows to add the collapsable menus
+						if( $( $( allTr[ i ] ).find( 'div' ) ).hasClass( 'NavHead' ) )
+							continue;
+
+						var aValue = $( $( allTr[ i ] ).find( 'a' ) ).text().trim() ||  $( $( allTr[ i ] ).find( 'td' ) ).clone().children().remove().end().text().trim(),
+							divValue = $( $( allTr[ i ] ).find( 'div' ) ).text().trim();
+
+
+						if( $( $( allTr[ i ] ).find( 'div' ) ).find( 'a' ) )
+							console.log( '999999999999999999999999999' );
+
+
+						respJson[ aValue ] = divValue;
+
+					}
+
+				} else {
+
+					/*
+					*--- Here all the normal td will continues
+					*--- Assuming first is the key
+					*--- second is the value
+					*/
+
+					if( $( allTr[ i ] ).children().length == 2 && $( allTr[ i ] ).find( 'td' ).length ) {
+						var sKey = $( allTr[ i ] ).find( 'td' ).eq( 0 ).text().trim(),
+							sValue = $( allTr[ i ] ).find( 'td' ).eq( 1 ).text().trim();
+
+						respJson[ sKey ] = sValue;
+					}
+					
+
+				}
+
+
+
+			}
+
+		}
+
+		console.log( '==================================' );
+		console.log( respJson );
+		if( p_fCallback )
+			p_fCallback( respJson );
+	} );
+
+
 	
-	
+};
+
+function removeRefrences( $elm ) {
+	$elm.find( '.reference' ).remove();
+	return $elm.text();
 };
